@@ -1,0 +1,18 @@
+# Soccer-Player-Reid-YOLOV11-Bytetrack
+# Detection + tracking
+ultralytics
+opencv-python
+numpy
+scipy
+scikit-learn
+
+# Tracking algorithms evaluated
+deep_sort_realtime
+norfair
+
+# Video I/O
+ffmpeg-python
+
+# Notebook
+jupyter
+ipykernel

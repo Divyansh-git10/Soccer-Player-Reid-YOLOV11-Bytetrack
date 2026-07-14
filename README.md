@@ -159,7 +159,7 @@ Based on comprehensive testing:
 ## 📂 Project Structure
 
 ```
-playertracking/
+Soccer-Player-Reid-YOLOV11-Bytetrack/
 ├── 📹 15sec_input_720p.mp4              # Primary test video (720p)
 ├── 📹 6077718-uhd_3840_2160_25fps.mp4   # High-resolution test video (4K UHD)
 ├── 📓 liat.ipynb                        # Main Jupyter notebook with all implementations
@@ -830,8 +830,8 @@ We welcome contributions! Here's how you can help:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/playertracking.git
-cd playertracking
+git clone https://github.com/Divyansh-git10/Soccer-Player-Reid-YOLOV11-Bytetrack.git
+cd Soccer-Player-Reid-YOLOV11-Bytetrack
 pip install -r requirements.txt
 ```
 
